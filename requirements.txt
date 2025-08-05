@@ -1,0 +1,17 @@
+selenium
+undetected-chromedriver
+websocket-client
+requests
+httpx
+opencv-python
+numpy
+Pillow
+beautifulsoup4
+lxml
+fake-useragent
+pyautogui
+python-dotenv
+tinder.py
+# Note: robobrowser removed due to compatibility issues with newer Python versions
+# Original Tinder repository uses robobrowser for Facebook authentication
+
